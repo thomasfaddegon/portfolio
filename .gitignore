@@ -1,0 +1,33 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore built files and directories
+__astro/
+dist/
+public/
+
+# Ignore local development environment files
+.env
+
+# Ignore package-lock.json or yarn.lock
+package-lock.json
+yarn.lock
+
+# Ignore .DS_Store (macOS system file)
+.DS_Store
+
+# Ignore cache files
+.cache/
+
+# Ignore logs
+logs/
+
+# Ignore build artifacts
+build/
+
+# Ignore editor configuration files
+.vscode/
+.idea/
+
+# Ignore test files and directories (customize as needed)
+__tests__/
